@@ -1,0 +1,1608 @@
+{
+  "2_4": {
+    "classes": [
+      2,
+      4
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "color",
+        "prompt_pair": [
+          "a satellite image of brushland or shrubland, with green and brown colors dominating the landscape.",
+          "a satellite image of industrial or commercial buildings, with gray and white colors dominating the landscape."
+        ]
+      },
+      {
+        "attr_type": "texture",
+        "prompt_pair": [
+          "a satellite image of brushland or shrubland, with a rough and uneven texture.",
+          "a satellite image of industrial or commercial buildings, with a smooth and uniform texture."
+        ]
+      },
+      {
+        "attr_type": "shape",
+        "prompt_pair": [
+          "a satellite image of brushland or shrubland, with irregular and organic shapes.",
+          "a satellite image of industrial or commercial buildings, with geometric and angular shapes."
+        ]
+      }
+    ]
+  },
+  "5_6": {
+    "classes": [
+      5,
+      6
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "color",
+        "prompt_pair": [
+          "a satellite image of pasture land, with green and brown colors indicating grass and soil.",
+          "a satellite image of permanent crop land, with a variety of colors indicating different crops."
+        ]
+      },
+      {
+        "attr_type": "texture",
+        "prompt_pair": [
+          "a satellite image of pasture land, with a smooth texture indicating grassy fields.",
+          "a satellite image of permanent crop land, with a rough texture indicating rows of crops."
+        ]
+      },
+      {
+        "attr_type": "land use",
+        "prompt_pair": [
+          "a satellite image of pasture land, used for grazing livestock.",
+          "a satellite image of permanent crop land, used for growing crops year after year."
+        ]
+      }
+    ]
+  },
+  "3_7": {
+    "classes": [
+      3,
+      7
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "color",
+        "prompt_pair": [
+          "a satellite image of a highway or road, with a dark grey or black color.",
+          "a satellite image of residential buildings or homes or apartments, with a light grey or beige color."
+        ]
+      },
+      {
+        "attr_type": "shape",
+        "prompt_pair": [
+          "a satellite image of a highway or road, with straight and curved lines forming a network.",
+          "a satellite image of residential buildings or homes or apartments, with rectangular or square shapes forming a grid."
+        ]
+      },
+      {
+        "attr_type": "density",
+        "prompt_pair": [
+          "a satellite image of a highway or road, with low density of objects.",
+          "a satellite image of residential buildings or homes or apartments, with high density of objects."
+        ]
+      },
+      {
+        "attr_type": "size",
+        "prompt_pair": [
+          "a satellite image of a highway or road, with wide lanes and large intersections.",
+          "a satellite image of residential buildings or homes or apartments, with small buildings and narrow streets."
+        ]
+      }
+    ]
+  },
+  "0_1": {
+    "classes": [
+      0,
+      1
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "color",
+        "prompt_pair": [
+          "a satellite image of annual crop land, with a patchwork of green, brown, and yellow colors.",
+          "a satellite image of a forest, with a predominantly green color."
+        ]
+      },
+      {
+        "attr_type": "texture",
+        "prompt_pair": [
+          "a satellite image of annual crop land, with a smooth and uniform texture.",
+          "a satellite image of a forest, with a varied and rough texture."
+        ]
+      },
+      {
+        "attr_type": "pattern",
+        "prompt_pair": [
+          "a satellite image of annual crop land, with a grid-like pattern of fields.",
+          "a satellite image of a forest, with a random and organic pattern of trees."
+        ]
+      },
+      {
+        "attr_type": "density",
+        "prompt_pair": [
+          "a satellite image of annual crop land, with a high density of crops.",
+          "a satellite image of a forest, with a lower density of trees."
+        ]
+      },
+      {
+        "attr_type": "shape",
+        "prompt_pair": [
+          "a satellite image of annual crop land, with rectangular and square shapes of fields.",
+          "a satellite image of a forest, with irregular and organic shapes of trees and vegetation."
+        ]
+      }
+    ]
+  },
+  "4_8": {
+    "classes": [
+      4,
+      8
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "color",
+        "prompt_pair": [
+          "a satellite image of industrial or commercial buildings, with a mix of grey, white, and black colors.",
+          "a satellite image of a river, with blue and green colors."
+        ]
+      },
+      {
+        "attr_type": "texture",
+        "prompt_pair": [
+          "a satellite image of industrial or commercial buildings, with a rough and angular texture.",
+          "a satellite image of a river, with a smooth and flowing texture."
+        ]
+      },
+      {
+        "attr_type": "shape",
+        "prompt_pair": [
+          "a satellite image of industrial or commercial buildings, with rectangular and square shapes.",
+          "a satellite image of a river, with a winding and curvy shape."
+        ]
+      },
+      {
+        "attr_type": "pattern",
+        "prompt_pair": [
+          "a satellite image of industrial or commercial buildings, with a grid-like pattern.",
+          "a satellite image of a river, with a meandering pattern."
+        ]
+      }
+    ]
+  },
+  "3_5": {
+    "classes": [
+      3,
+      5
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "color",
+        "prompt_pair": [
+          "a satellite image of a highway or road, with a dark grey or black color.",
+          "a satellite image of pasture land, with a green color."
+        ]
+      },
+      {
+        "attr_type": "texture",
+        "prompt_pair": [
+          "a satellite image of a highway or road, with a smooth and uniform texture.",
+          "a satellite image of pasture land, with an uneven and varied texture."
+        ]
+      },
+      {
+        "attr_type": "pattern",
+        "prompt_pair": [
+          "a satellite image of a highway or road, with a linear and straight pattern.",
+          "a satellite image of pasture land, with a random and organic pattern."
+        ]
+      },
+      {
+        "attr_type": "land use",
+        "prompt_pair": [
+          "a satellite image of a highway or road, which is used for transportation.",
+          "a satellite image of pasture land, which is used for grazing livestock."
+        ]
+      }
+    ]
+  },
+  "5_9": {
+    "classes": [
+      5,
+      9
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "color",
+        "prompt_pair": [
+          "a satellite image of pasture land, with shades of green and brown.",
+          "a satellite image of a lake or sea, with shades of blue."
+        ]
+      },
+      {
+        "attr_type": "texture",
+        "prompt_pair": [
+          "a satellite image of pasture land, with a textured surface due to vegetation.",
+          "a satellite image of a lake or sea, with a smooth surface due to water."
+        ]
+      },
+      {
+        "attr_type": "shape",
+        "prompt_pair": [
+          "a satellite image of pasture land, with irregular shapes due to the presence of trees and other vegetation.",
+          "a satellite image of a lake or sea, with a circular or oval shape due to the natural formation of water bodies."
+        ]
+      },
+      {
+        "attr_type": "landmarks",
+        "prompt_pair": [
+          "a satellite image of pasture land, with no prominent landmarks visible.",
+          "a satellite image of a lake or sea, with visible landmarks such as islands or peninsulas."
+        ]
+      }
+    ]
+  },
+  "0_3": {
+    "classes": [
+      0,
+      3
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "pattern",
+        "prompt_pair": [
+          "a satellite image of annual crop land, with a regular and repeating pattern of rectangular fields.",
+          "a satellite image of a highway or road, with a linear and winding pattern."
+        ]
+      },
+      {
+        "attr_type": "color",
+        "prompt_pair": [
+          "a satellite image of annual crop land, with a green and brown color scheme.",
+          "a satellite image of a highway or road, with a gray and black color scheme."
+        ]
+      },
+      {
+        "attr_type": "texture",
+        "prompt_pair": [
+          "a satellite image of annual crop land, with a smooth and uniform texture.",
+          "a satellite image of a highway or road, with a rough and varied texture."
+        ]
+      }
+    ]
+  },
+  "0_9": {
+    "classes": [
+      0,
+      9
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "color",
+        "prompt_pair": [
+          "a satellite image of annual crop land, with shades of green and brown.",
+          "a satellite image of a lake or sea, with shades of blue."
+        ]
+      },
+      {
+        "attr_type": "texture",
+        "prompt_pair": [
+          "a satellite image of annual crop land, with a patchy and irregular texture.",
+          "a satellite image of a lake or sea, with a smooth and uniform texture."
+        ]
+      },
+      {
+        "attr_type": "shape",
+        "prompt_pair": [
+          "a satellite image of annual crop land, with rectangular and square shapes.",
+          "a satellite image of a lake or sea, with irregular and organic shapes."
+        ]
+      },
+      {
+        "attr_type": "features",
+        "prompt_pair": [
+          "a satellite image of annual crop land, with visible rows and patterns of crops.",
+          "a satellite image of a lake or sea, with visible waves and currents."
+        ]
+      }
+    ]
+  },
+  "1_7": {
+    "classes": [
+      1,
+      7
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "color",
+        "prompt_pair": [
+          "a satellite image of a forest, with a green color palette.",
+          "a satellite image of residential buildings or homes or apartments, with a mix of colors including grey, white, and brown."
+        ]
+      },
+      {
+        "attr_type": "density",
+        "prompt_pair": [
+          "a satellite image of a forest, with a low density of objects.",
+          "a satellite image of residential buildings or homes or apartments, with a high density of objects."
+        ]
+      },
+      {
+        "attr_type": "shape",
+        "prompt_pair": [
+          "a satellite image of a forest, with irregular shapes and sizes.",
+          "a satellite image of residential buildings or homes or apartments, with regular shapes and sizes."
+        ]
+      },
+      {
+        "attr_type": "texture",
+        "prompt_pair": [
+          "a satellite image of a forest, with a rough and uneven texture.",
+          "a satellite image of residential buildings or homes or apartments, with a smooth and even texture."
+        ]
+      }
+    ]
+  },
+  "3_6": {
+    "classes": [
+      3,
+      6
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "color",
+        "prompt_pair": [
+          "a satellite image of a highway or road, which appears gray or black in color.",
+          "a satellite image of permanent crop land, which appears green or brown in color."
+        ]
+      },
+      {
+        "attr_type": "texture",
+        "prompt_pair": [
+          "a satellite image of a highway or road, which appears smooth in texture.",
+          "a satellite image of permanent crop land, which appears rough or textured due to the presence of crops."
+        ]
+      },
+      {
+        "attr_type": "pattern",
+        "prompt_pair": [
+          "a satellite image of a highway or road, which appears linear or straight in pattern.",
+          "a satellite image of permanent crop land, which appears irregular or patchy in pattern due to the arrangement of crops."
+        ]
+      }
+    ]
+  },
+  "2_9": {
+    "classes": [
+      2,
+      9
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "color",
+        "prompt_pair": [
+          "a satellite image of brushland or shrubland, with brown and green colors.",
+          "a satellite image of a lake or sea, with blue and green colors."
+        ]
+      },
+      {
+        "attr_type": "texture",
+        "prompt_pair": [
+          "a satellite image of brushland or shrubland, with a rough and uneven texture.",
+          "a satellite image of a lake or sea, with a smooth and uniform texture."
+        ]
+      },
+      {
+        "attr_type": "shape",
+        "prompt_pair": [
+          "a satellite image of brushland or shrubland, with irregular shapes and sizes.",
+          "a satellite image of a lake or sea, with a circular or oval shape."
+        ]
+      },
+      {
+        "attr_type": "features",
+        "prompt_pair": [
+          "a satellite image of brushland or shrubland, with scattered trees and bushes.",
+          "a satellite image of a lake or sea, with islands, peninsulas, and bays."
+        ]
+      }
+    ]
+  },
+  "3_9": {
+    "classes": [
+      3,
+      9
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "color",
+        "prompt_pair": [
+          "a satellite image of a highway or road, with a gray or black color.",
+          "a satellite image of a lake or sea, with a blue or green color."
+        ]
+      },
+      {
+        "attr_type": "texture",
+        "prompt_pair": [
+          "a satellite image of a highway or road, with a smooth and straight texture.",
+          "a satellite image of a lake or sea, with a wavy and irregular texture."
+        ]
+      },
+      {
+        "attr_type": "shape",
+        "prompt_pair": [
+          "a satellite image of a highway or road, with a linear and branching shape.",
+          "a satellite image of a lake or sea, with a curved and irregular shape."
+        ]
+      },
+      {
+        "attr_type": "surroundings",
+        "prompt_pair": [
+          "a satellite image of a highway or road, surrounded by urban or rural areas.",
+          "a satellite image of a lake or sea, surrounded by land or islands."
+        ]
+      }
+    ]
+  },
+  "2_5": {
+    "classes": [
+      2,
+      5
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "vegetation density",
+        "prompt_pair": [
+          "a satellite image of brushland or shrubland with low vegetation density.",
+          "a satellite image of pasture land with high vegetation density."
+        ]
+      },
+      {
+        "attr_type": "color",
+        "prompt_pair": [
+          "a satellite image of brushland or shrubland with brownish-green color.",
+          "a satellite image of pasture land with bright green color."
+        ]
+      },
+      {
+        "attr_type": "land use",
+        "prompt_pair": [
+          "a satellite image of brushland or shrubland, an area with little human intervention.",
+          "a satellite image of pasture land, an area that has been cleared and managed for livestock grazing."
+        ]
+      }
+    ]
+  },
+  "1_3": {
+    "classes": [
+      1,
+      3
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "color",
+        "prompt_pair": [
+          "a satellite image of a forest, with a green color indicating vegetation.",
+          "a satellite image of a highway or road, with a gray or black color indicating pavement."
+        ]
+      },
+      {
+        "attr_type": "pattern",
+        "prompt_pair": [
+          "a satellite image of a forest, with a random pattern of trees and vegetation.",
+          "a satellite image of a highway or road, with a linear pattern of pavement and lanes."
+        ]
+      },
+      {
+        "attr_type": "density",
+        "prompt_pair": [
+          "a satellite image of a forest, with a high density of trees and vegetation.",
+          "a satellite image of a highway or road, with a low density of vehicles and infrastructure."
+        ]
+      },
+      {
+        "attr_type": "shape",
+        "prompt_pair": [
+          "a satellite image of a forest, with irregular shapes of trees and vegetation.",
+          "a satellite image of a highway or road, with regular shapes of pavement and lanes."
+        ]
+      }
+    ]
+  },
+  "8_9": {
+    "classes": [
+      8,
+      9
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "color",
+        "prompt_pair": [
+          "a satellite image of a river, with a blue-grey color indicating the presence of water.",
+          "a satellite image of a lake or sea, with a deep blue color indicating the presence of a large body of water."
+        ]
+      },
+      {
+        "attr_type": "shape",
+        "prompt_pair": [
+          "a satellite image of a river, with a winding, meandering shape.",
+          "a satellite image of a lake or sea, with a more circular or oval shape."
+        ]
+      },
+      {
+        "attr_type": "surrounding land",
+        "prompt_pair": [
+          "a satellite image of a river, with surrounding land visible on both sides.",
+          "a satellite image of a lake or sea, with surrounding land visible only on one side or not at all."
+        ]
+      },
+      {
+        "attr_type": "texture",
+        "prompt_pair": [
+          "a satellite image of a river, with a rippled texture indicating the flow of water.",
+          "a satellite image of a lake or sea, with a smooth texture indicating still water."
+        ]
+      }
+    ]
+  },
+  "1_5": {
+    "classes": [
+      1,
+      5
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "color",
+        "prompt_pair": [
+          "a satellite image of a forest, with a green color indicating dense vegetation.",
+          "a satellite image of a pasture land, with a brown color indicating sparse vegetation."
+        ]
+      },
+      {
+        "attr_type": "texture",
+        "prompt_pair": [
+          "a satellite image of a forest, with a rough texture indicating the presence of trees and foliage.",
+          "a satellite image of a pasture land, with a smooth texture indicating the absence of trees and foliage."
+        ]
+      },
+      {
+        "attr_type": "land use",
+        "prompt_pair": [
+          "a satellite image of a forest, indicating the land use as natural or protected.",
+          "a satellite image of a pasture land, indicating the land use as agricultural or grazing."
+        ]
+      },
+      {
+        "attr_type": "pattern",
+        "prompt_pair": [
+          "a satellite image of a forest, with a random pattern indicating the natural growth of trees and vegetation.",
+          "a satellite image of a pasture land, with a regular pattern indicating the organized arrangement of crops or grazing areas."
+        ]
+      }
+    ]
+  },
+  "3_8": {
+    "classes": [
+      3,
+      8
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "color",
+        "prompt_pair": [
+          "a satellite image of a highway or road, with a gray or black color.",
+          "a satellite image of a river, with a blue or green color."
+        ]
+      },
+      {
+        "attr_type": "texture",
+        "prompt_pair": [
+          "a satellite image of a highway or road, with a smooth and straight texture.",
+          "a satellite image of a river, with a meandering and curvy texture."
+        ]
+      },
+      {
+        "attr_type": "surrounding landscape",
+        "prompt_pair": [
+          "a satellite image of a highway or road, surrounded by urban or suburban landscape.",
+          "a satellite image of a river, surrounded by natural landscape such as forests or mountains."
+        ]
+      },
+      {
+        "attr_type": "width",
+        "prompt_pair": [
+          "a satellite image of a highway or road, with a consistent width throughout.",
+          "a satellite image of a river, with varying width due to bends and curves."
+        ]
+      },
+      {
+        "attr_type": "direction",
+        "prompt_pair": [
+          "a satellite image of a highway or road, with a linear direction.",
+          "a satellite image of a river, with a meandering direction."
+        ]
+      }
+    ]
+  },
+  "0_8": {
+    "classes": [
+      0,
+      8
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "color",
+        "prompt_pair": [
+          "a satellite image of annual crop land, with green and brown colors indicating vegetation and soil.",
+          "a satellite image of a river, with blue and black colors indicating water and land."
+        ]
+      },
+      {
+        "attr_type": "texture",
+        "prompt_pair": [
+          "a satellite image of annual crop land, with a patchy and irregular texture due to different crop types and soil conditions.",
+          "a satellite image of a river, with a smooth and flowing texture due to the movement of water."
+        ]
+      },
+      {
+        "attr_type": "pattern",
+        "prompt_pair": [
+          "a satellite image of annual crop land, with a repeating pattern of crop rows and fields.",
+          "a satellite image of a river, with a meandering pattern as it winds through the landscape."
+        ]
+      },
+      {
+        "attr_type": "shape",
+        "prompt_pair": [
+          "a satellite image of annual crop land, with rectangular and square shapes indicating fields and plots.",
+          "a satellite image of a river, with a sinuous and curving shape as it follows the natural topography of the land."
+        ]
+      }
+    ]
+  },
+  "5_7": {
+    "classes": [
+      5,
+      7
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "land use",
+        "prompt_pair": [
+          "a satellite image of pasture land, with green and brown patches.",
+          "a satellite image of residential buildings or homes or apartments, with a grid-like pattern of buildings."
+        ]
+      },
+      {
+        "attr_type": "density",
+        "prompt_pair": [
+          "a satellite image of pasture land, with low density of features.",
+          "a satellite image of residential buildings or homes or apartments, with high density of features."
+        ]
+      },
+      {
+        "attr_type": "size",
+        "prompt_pair": [
+          "a satellite image of pasture land, with large patches of land.",
+          "a satellite image of residential buildings or homes or apartments, with small patches of land."
+        ]
+      },
+      {
+        "attr_type": "vegetation",
+        "prompt_pair": [
+          "a satellite image of pasture land, with visible vegetation and trees.",
+          "a satellite image of residential buildings or homes or apartments, with little to no visible vegetation."
+        ]
+      }
+    ]
+  },
+  "7_8": {
+    "classes": [
+      7,
+      8
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "color",
+        "prompt_pair": [
+          "a satellite image of residential buildings or homes or apartments with a mix of colors, including brown, gray, and green.",
+          "a satellite image of a river with a blue color."
+        ]
+      },
+      {
+        "attr_type": "texture",
+        "prompt_pair": [
+          "a satellite image of residential buildings or homes or apartments with a rough texture due to the presence of roofs, trees, and other structures.",
+          "a satellite image of a river with a smooth texture due to the flow of water."
+        ]
+      },
+      {
+        "attr_type": "shape",
+        "prompt_pair": [
+          "a satellite image of residential buildings or homes or apartments with a rectangular or square shape.",
+          "a satellite image of a river with a winding or meandering shape."
+        ]
+      },
+      {
+        "attr_type": "size",
+        "prompt_pair": [
+          "a satellite image of residential buildings or homes or apartments covering a large area.",
+          "a satellite image of a river covering a narrow area."
+        ]
+      },
+      {
+        "attr_type": "pattern",
+        "prompt_pair": [
+          "a satellite image of residential buildings or homes or apartments with a grid-like pattern.",
+          "a satellite image of a river with a ripple-like pattern due to the flow of water."
+        ]
+      }
+    ]
+  },
+  "1_2": {
+    "classes": [
+      1,
+      2
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "color",
+        "prompt_pair": [
+          "a satellite image of a forest, with a dark green color indicating dense vegetation.",
+          "a satellite image of brushland or shrubland, with a light green or brown color indicating sparse vegetation."
+        ]
+      },
+      {
+        "attr_type": "texture",
+        "prompt_pair": [
+          "a satellite image of a forest, with a smooth texture indicating a dense canopy.",
+          "a satellite image of brushland or shrubland, with a rough texture indicating a sparse canopy."
+        ]
+      },
+      {
+        "attr_type": "pattern",
+        "prompt_pair": [
+          "a satellite image of a forest, with a random pattern indicating natural growth.",
+          "a satellite image of brushland or shrubland, with a uniform pattern indicating human intervention or management."
+        ]
+      }
+    ]
+  },
+  "4_9": {
+    "classes": [
+      4,
+      9
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "color",
+        "prompt_pair": [
+          "a satellite image of industrial or commercial buildings, with a mix of grey, white, and brown colors.",
+          "a satellite image of a lake or sea, with blue and green colors."
+        ]
+      },
+      {
+        "attr_type": "texture",
+        "prompt_pair": [
+          "a satellite image of industrial or commercial buildings, with a rough and angular texture.",
+          "a satellite image of a lake or sea, with a smooth and flowing texture."
+        ]
+      },
+      {
+        "attr_type": "shape",
+        "prompt_pair": [
+          "a satellite image of industrial or commercial buildings, with rectangular and square shapes.",
+          "a satellite image of a lake or sea, with irregular and organic shapes."
+        ]
+      },
+      {
+        "attr_type": "size",
+        "prompt_pair": [
+          "a satellite image of industrial or commercial buildings, with large and small structures.",
+          "a satellite image of a lake or sea, with vast and expansive areas."
+        ]
+      }
+    ]
+  },
+  "0_4": {
+    "classes": [
+      0,
+      4
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "land use",
+        "prompt_pair": [
+          "a satellite image of annual crop land, with a patchwork of green and brown fields.",
+          "a satellite image of industrial or commercial buildings, with large, rectangular structures and parking lots."
+        ]
+      },
+      {
+        "attr_type": "density",
+        "prompt_pair": [
+          "a satellite image of annual crop land, with scattered buildings and low population density.",
+          "a satellite image of industrial or commercial buildings, with high population density and many buildings in close proximity."
+        ]
+      },
+      {
+        "attr_type": "vegetation",
+        "prompt_pair": [
+          "a satellite image of annual crop land, with lush green vegetation covering the fields.",
+          "a satellite image of industrial or commercial buildings, with little to no vegetation visible in the surrounding area."
+        ]
+      },
+      {
+        "attr_type": "road network",
+        "prompt_pair": [
+          "a satellite image of annual crop land, with few roads and small, winding paths.",
+          "a satellite image of industrial or commercial buildings, with a dense network of roads and highways connecting the buildings."
+        ]
+      }
+    ]
+  },
+  "3_4": {
+    "classes": [
+      3,
+      4
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "color",
+        "prompt_pair": [
+          "a satellite image of a highway or road, with a black or gray color.",
+          "a satellite image of industrial or commercial buildings, with a mix of colors such as white, gray, and brown."
+        ]
+      },
+      {
+        "attr_type": "shape",
+        "prompt_pair": [
+          "a satellite image of a highway or road, with straight and curved lines forming a network.",
+          "a satellite image of industrial or commercial buildings, with various shapes such as rectangles, squares, and circles."
+        ]
+      },
+      {
+        "attr_type": "density",
+        "prompt_pair": [
+          "a satellite image of a highway or road, with low density of objects.",
+          "a satellite image of industrial or commercial buildings, with high density of objects."
+        ]
+      },
+      {
+        "attr_type": "size",
+        "prompt_pair": [
+          "a satellite image of a highway or road, covering a large area.",
+          "a satellite image of industrial or commercial buildings, covering a smaller area but with larger individual objects."
+        ]
+      }
+    ]
+  },
+  "2_6": {
+    "classes": [
+      2,
+      6
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "color",
+        "prompt_pair": [
+          "a satellite image of brushland or shrubland, with a mix of green and brown colors.",
+          "a satellite image of permanent crop land, with a consistent green color."
+        ]
+      },
+      {
+        "attr_type": "texture",
+        "prompt_pair": [
+          "a satellite image of brushland or shrubland, with a rough and uneven texture.",
+          "a satellite image of permanent crop land, with a smooth and uniform texture."
+        ]
+      },
+      {
+        "attr_type": "pattern",
+        "prompt_pair": [
+          "a satellite image of brushland or shrubland, with a scattered and irregular pattern.",
+          "a satellite image of permanent crop land, with a regular and organized pattern."
+        ]
+      },
+      {
+        "attr_type": "density",
+        "prompt_pair": [
+          "a satellite image of brushland or shrubland, with a low density of vegetation.",
+          "a satellite image of permanent crop land, with a high density of vegetation."
+        ]
+      }
+    ]
+  },
+  "2_3": {
+    "classes": [
+      2,
+      3
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "color",
+        "prompt_pair": [
+          "a satellite image of brushland or shrubland, with a mix of green and brown colors.",
+          "a satellite image of a highway or road, with a mix of gray and black colors."
+        ]
+      },
+      {
+        "attr_type": "texture",
+        "prompt_pair": [
+          "a satellite image of brushland or shrubland, with a rough and uneven texture.",
+          "a satellite image of a highway or road, with a smooth and even texture."
+        ]
+      },
+      {
+        "attr_type": "pattern",
+        "prompt_pair": [
+          "a satellite image of brushland or shrubland, with a random and scattered pattern.",
+          "a satellite image of a highway or road, with a linear and organized pattern."
+        ]
+      }
+    ]
+  },
+  "6_7": {
+    "classes": [
+      6,
+      7
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "color",
+        "prompt_pair": [
+          "a satellite image of permanent crop land, with green and brown colors.",
+          "a satellite image of residential buildings or homes or apartments, with a mix of grey, white, and brown colors."
+        ]
+      },
+      {
+        "attr_type": "shape",
+        "prompt_pair": [
+          "a satellite image of permanent crop land, with irregular shapes and sizes.",
+          "a satellite image of residential buildings or homes or apartments, with regular shapes and sizes."
+        ]
+      },
+      {
+        "attr_type": "density",
+        "prompt_pair": [
+          "a satellite image of permanent crop land, with low density and scattered vegetation.",
+          "a satellite image of residential buildings or homes or apartments, with high density and closely packed buildings."
+        ]
+      },
+      {
+        "attr_type": "texture",
+        "prompt_pair": [
+          "a satellite image of permanent crop land, with a rough and uneven texture.",
+          "a satellite image of residential buildings or homes or apartments, with a smooth and uniform texture."
+        ]
+      }
+    ]
+  },
+  "6_9": {
+    "classes": [
+      6,
+      9
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "color",
+        "prompt_pair": [
+          "a satellite image of permanent crop land, with green and brown colors.",
+          "a satellite image of a lake or sea, with blue and black colors."
+        ]
+      },
+      {
+        "attr_type": "texture",
+        "prompt_pair": [
+          "a satellite image of permanent crop land, with a textured surface due to the presence of crops.",
+          "a satellite image of a lake or sea, with a smooth surface due to the absence of vegetation."
+        ]
+      },
+      {
+        "attr_type": "shape",
+        "prompt_pair": [
+          "a satellite image of permanent crop land, with irregular shapes due to the presence of fields and crops.",
+          "a satellite image of a lake or sea, with a circular or oval shape due to the natural shape of the water body."
+        ]
+      },
+      {
+        "attr_type": "landmarks",
+        "prompt_pair": [
+          "a satellite image of permanent crop land, with visible landmarks such as roads, buildings, and irrigation systems.",
+          "a satellite image of a lake or sea, with no visible landmarks except for the coastline."
+        ]
+      }
+    ]
+  },
+  "4_7": {
+    "classes": [
+      4,
+      7
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "building density",
+        "prompt_pair": [
+          "a satellite image of industrial or commercial buildings with high building density.",
+          "a satellite image of residential buildings or homes or apartments with low building density."
+        ]
+      },
+      {
+        "attr_type": "building height",
+        "prompt_pair": [
+          "a satellite image of industrial or commercial buildings with tall building height.",
+          "a satellite image of residential buildings or homes or apartments with short building height."
+        ]
+      },
+      {
+        "attr_type": "building shape",
+        "prompt_pair": [
+          "a satellite image of industrial or commercial buildings with rectangular building shape.",
+          "a satellite image of residential buildings or homes or apartments with varied building shapes."
+        ]
+      },
+      {
+        "attr_type": "parking lots",
+        "prompt_pair": [
+          "a satellite image of industrial or commercial buildings with large parking lots.",
+          "a satellite image of residential buildings or homes or apartments with small parking lots or no parking lots."
+        ]
+      },
+      {
+        "attr_type": "green spaces",
+        "prompt_pair": [
+          "a satellite image of industrial or commercial buildings with little to no green spaces.",
+          "a satellite image of residential buildings or homes or apartments with ample green spaces."
+        ]
+      }
+    ]
+  },
+  "0_5": {
+    "classes": [
+      0,
+      5
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "color",
+        "prompt_pair": [
+          "a satellite image of annual crop land, with a patchwork of green, brown, and yellow colors.",
+          "a satellite image of pasture land, with a uniform green color."
+        ]
+      },
+      {
+        "attr_type": "texture",
+        "prompt_pair": [
+          "a satellite image of annual crop land, with a smooth and even texture.",
+          "a satellite image of pasture land, with a rough and uneven texture."
+        ]
+      },
+      {
+        "attr_type": "land use",
+        "prompt_pair": [
+          "a satellite image of annual crop land, with clearly defined rows of crops.",
+          "a satellite image of pasture land, with no clear pattern of land use."
+        ]
+      },
+      {
+        "attr_type": "vegetation density",
+        "prompt_pair": [
+          "a satellite image of annual crop land, with high vegetation density.",
+          "a satellite image of pasture land, with low vegetation density."
+        ]
+      }
+    ]
+  },
+  "1_6": {
+    "classes": [
+      1,
+      6
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "color",
+        "prompt_pair": [
+          "a satellite image of a forest, with a green color indicating dense vegetation.",
+          "a satellite image of permanent crop land, with a brown color indicating cultivated land."
+        ]
+      },
+      {
+        "attr_type": "texture",
+        "prompt_pair": [
+          "a satellite image of a forest, with a rough texture indicating the presence of trees and vegetation.",
+          "a satellite image of permanent crop land, with a smooth texture indicating the absence of trees and vegetation."
+        ]
+      },
+      {
+        "attr_type": "pattern",
+        "prompt_pair": [
+          "a satellite image of a forest, with a random pattern indicating the natural growth of trees and vegetation.",
+          "a satellite image of permanent crop land, with a uniform pattern indicating the organized cultivation of crops."
+        ]
+      },
+      {
+        "attr_type": "land use",
+        "prompt_pair": [
+          "a satellite image of a forest, indicating the land use as natural vegetation.",
+          "a satellite image of permanent crop land, indicating the land use as agricultural land."
+        ]
+      }
+    ]
+  },
+  "0_7": {
+    "classes": [
+      0,
+      7
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "color",
+        "prompt_pair": [
+          "a satellite image of annual crop land, with green and brown colors.",
+          "a satellite image of residential buildings or homes or apartments, with a mix of colors including grey, white, and brown."
+        ]
+      },
+      {
+        "attr_type": "shape",
+        "prompt_pair": [
+          "a satellite image of annual crop land, with rectangular or square shapes.",
+          "a satellite image of residential buildings or homes or apartments, with various shapes including rectangular, square, and irregular shapes."
+        ]
+      },
+      {
+        "attr_type": "density",
+        "prompt_pair": [
+          "a satellite image of annual crop land, with low density and scattered patterns.",
+          "a satellite image of residential buildings or homes or apartments, with high density and clustered patterns."
+        ]
+      },
+      {
+        "attr_type": "texture",
+        "prompt_pair": [
+          "a satellite image of annual crop land, with a smooth and uniform texture.",
+          "a satellite image of residential buildings or homes or apartments, with a rough and varied texture."
+        ]
+      }
+    ]
+  },
+  "4_6": {
+    "classes": [
+      4,
+      6
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "color",
+        "prompt_pair": [
+          "a satellite image of industrial or commercial buildings, with grey and white colors dominating the landscape.",
+          "a satellite image of permanent crop land, with green and brown colors dominating the landscape."
+        ]
+      },
+      {
+        "attr_type": "texture",
+        "prompt_pair": [
+          "a satellite image of industrial or commercial buildings, with a smooth and uniform texture.",
+          "a satellite image of permanent crop land, with a varied and irregular texture."
+        ]
+      },
+      {
+        "attr_type": "shape",
+        "prompt_pair": [
+          "a satellite image of industrial or commercial buildings, with rectangular and square shapes dominating the landscape.",
+          "a satellite image of permanent crop land, with irregular and organic shapes dominating the landscape."
+        ]
+      },
+      {
+        "attr_type": "pattern",
+        "prompt_pair": [
+          "a satellite image of industrial or commercial buildings, with a grid-like pattern of streets and buildings.",
+          "a satellite image of permanent crop land, with a patchwork-like pattern of fields and crops."
+        ]
+      }
+    ]
+  },
+  "1_8": {
+    "classes": [
+      1,
+      8
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "color",
+        "prompt_pair": [
+          "a satellite image of a forest, with green and brown colors dominating the landscape.",
+          "a satellite image of a river, with blue and white colors dominating the landscape."
+        ]
+      },
+      {
+        "attr_type": "texture",
+        "prompt_pair": [
+          "a satellite image of a forest, with a dense and varied texture of trees and foliage.",
+          "a satellite image of a river, with a smooth and flowing texture of water and land."
+        ]
+      },
+      {
+        "attr_type": "shape",
+        "prompt_pair": [
+          "a satellite image of a forest, with irregular and organic shapes of trees and land.",
+          "a satellite image of a river, with linear and sinuous shapes of water and land."
+        ]
+      }
+    ]
+  },
+  "1_4": {
+    "classes": [
+      1,
+      4
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "color",
+        "prompt_pair": [
+          "a satellite image of a forest, with green and brown colors dominating the image.",
+          "a satellite image of industrial or commercial buildings, with gray and white colors dominating the image."
+        ]
+      },
+      {
+        "attr_type": "texture",
+        "prompt_pair": [
+          "a satellite image of a forest, with a natural and organic texture.",
+          "a satellite image of industrial or commercial buildings, with a man-made and uniform texture."
+        ]
+      },
+      {
+        "attr_type": "shape",
+        "prompt_pair": [
+          "a satellite image of a forest, with irregular and organic shapes.",
+          "a satellite image of industrial or commercial buildings, with regular and geometric shapes."
+        ]
+      },
+      {
+        "attr_type": "density",
+        "prompt_pair": [
+          "a satellite image of a forest, with a low density of objects.",
+          "a satellite image of industrial or commercial buildings, with a high density of objects."
+        ]
+      }
+    ]
+  },
+  "6_8": {
+    "classes": [
+      6,
+      8
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "color",
+        "prompt_pair": [
+          "a satellite image of permanent crop land, with green and brown colors.",
+          "a satellite image of a river, with blue and white colors."
+        ]
+      },
+      {
+        "attr_type": "texture",
+        "prompt_pair": [
+          "a satellite image of permanent crop land, with a textured appearance due to the presence of crops.",
+          "a satellite image of a river, with a smooth appearance due to the flow of water."
+        ]
+      },
+      {
+        "attr_type": "shape",
+        "prompt_pair": [
+          "a satellite image of permanent crop land, with rectangular and irregular shapes due to the arrangement of crops.",
+          "a satellite image of a river, with a winding and curvy shape due to the natural flow of water."
+        ]
+      },
+      {
+        "attr_type": "land use",
+        "prompt_pair": [
+          "a satellite image of permanent crop land, used for agriculture and farming purposes.",
+          "a satellite image of a river, used for transportation, recreation, and as a source of water."
+        ]
+      },
+      {
+        "attr_type": "topography",
+        "prompt_pair": [
+          "a satellite image of permanent crop land, with flat or gently sloping terrain.",
+          "a satellite image of a river, with varying topography including steep banks, waterfalls, and rapids."
+        ]
+      }
+    ]
+  },
+  "1_9": {
+    "classes": [
+      1,
+      9
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "color",
+        "prompt_pair": [
+          "a satellite image of a forest, with shades of green and brown.",
+          "a satellite image of a lake or sea, with shades of blue."
+        ]
+      },
+      {
+        "attr_type": "texture",
+        "prompt_pair": [
+          "a satellite image of a forest, with a textured surface due to the presence of trees and vegetation.",
+          "a satellite image of a lake or sea, with a smooth surface due to the absence of trees and vegetation."
+        ]
+      },
+      {
+        "attr_type": "shape",
+        "prompt_pair": [
+          "a satellite image of a forest, with irregular shapes due to the presence of trees and vegetation.",
+          "a satellite image of a lake or sea, with regular shapes due to the absence of trees and vegetation."
+        ]
+      },
+      {
+        "attr_type": "landmarks",
+        "prompt_pair": [
+          "a satellite image of a forest, with no prominent landmarks visible.",
+          "a satellite image of a lake or sea, with visible landmarks such as islands or coastlines."
+        ]
+      }
+    ]
+  },
+  "4_5": {
+    "classes": [
+      4,
+      5
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "color",
+        "prompt_pair": [
+          "a satellite image of industrial or commercial buildings, with a mix of gray, white, and black colors.",
+          "a satellite image of pasture land, with a mix of green and brown colors."
+        ]
+      },
+      {
+        "attr_type": "texture",
+        "prompt_pair": [
+          "a satellite image of industrial or commercial buildings, with a smooth and uniform texture.",
+          "a satellite image of pasture land, with a varied and uneven texture."
+        ]
+      },
+      {
+        "attr_type": "shape",
+        "prompt_pair": [
+          "a satellite image of industrial or commercial buildings, with rectangular and square shapes.",
+          "a satellite image of pasture land, with irregular and organic shapes."
+        ]
+      },
+      {
+        "attr_type": "density",
+        "prompt_pair": [
+          "a satellite image of industrial or commercial buildings, with a high density of structures.",
+          "a satellite image of pasture land, with a low density of structures."
+        ]
+      },
+      {
+        "attr_type": "pattern",
+        "prompt_pair": [
+          "a satellite image of industrial or commercial buildings, with a grid-like pattern.",
+          "a satellite image of pasture land, with a random and scattered pattern."
+        ]
+      }
+    ]
+  },
+  "7_9": {
+    "classes": [
+      7,
+      9
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "color",
+        "prompt_pair": [
+          "a satellite image of residential buildings or homes or apartments, with a variety of colors indicating different materials and vegetation.",
+          "a satellite image of a lake or sea, with shades of blue indicating different depths and water temperatures."
+        ]
+      },
+      {
+        "attr_type": "texture",
+        "prompt_pair": [
+          "a satellite image of residential buildings or homes or apartments, with a textured appearance due to the presence of roofs, trees, and other structures.",
+          "a satellite image of a lake or sea, with a smooth appearance due to the absence of structures and vegetation."
+        ]
+      },
+      {
+        "attr_type": "shape",
+        "prompt_pair": [
+          "a satellite image of residential buildings or homes or apartments, with rectangular and irregular shapes indicating different types of buildings and land use.",
+          "a satellite image of a lake or sea, with a curved and irregular shape indicating the natural contours of the water body."
+        ]
+      },
+      {
+        "attr_type": "size",
+        "prompt_pair": [
+          "a satellite image of residential buildings or homes or apartments, with small and large sizes indicating different types of buildings and population density.",
+          "a satellite image of a lake or sea, with small and large sizes indicating different types of water bodies and water volume."
+        ]
+      }
+    ]
+  },
+  "5_8": {
+    "classes": [
+      5,
+      8
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "color",
+        "prompt_pair": [
+          "a satellite image of pasture land, with green and brown colors dominating the landscape.",
+          "a satellite image of a river, with blue and white colors representing the water and surrounding areas."
+        ]
+      },
+      {
+        "attr_type": "texture",
+        "prompt_pair": [
+          "a satellite image of pasture land, with a smooth and uniform texture.",
+          "a satellite image of a river, with a rippled and flowing texture."
+        ]
+      },
+      {
+        "attr_type": "shape",
+        "prompt_pair": [
+          "a satellite image of pasture land, with rectangular and square shapes representing fields and plots.",
+          "a satellite image of a river, with winding and curving shapes representing the flow of the water."
+        ]
+      },
+      {
+        "attr_type": "land use",
+        "prompt_pair": [
+          "a satellite image of pasture land, with clear signs of agricultural land use.",
+          "a satellite image of a river, with clear signs of water transportation and recreational land use."
+        ]
+      }
+    ]
+  },
+  "0_6": {
+    "classes": [
+      0,
+      6
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "color",
+        "prompt_pair": [
+          "a satellite image of annual crop land, with a mix of green and brown colors.",
+          "a satellite image of permanent crop land, with a consistent green color."
+        ]
+      },
+      {
+        "attr_type": "pattern",
+        "prompt_pair": [
+          "a satellite image of annual crop land, with a patchwork pattern of different crop types.",
+          "a satellite image of permanent crop land, with a uniform pattern of the same crop type."
+        ]
+      },
+      {
+        "attr_type": "size and shape of fields",
+        "prompt_pair": [
+          "a satellite image of annual crop land, with irregularly shaped fields of varying sizes.",
+          "a satellite image of permanent crop land, with regularly shaped fields of similar sizes."
+        ]
+      },
+      {
+        "attr_type": "land use",
+        "prompt_pair": [
+          "a satellite image of annual crop land, with evidence of crop rotation and seasonal changes in land use.",
+          "a satellite image of permanent crop land, with evidence of consistent land use over time."
+        ]
+      }
+    ]
+  },
+  "2_8": {
+    "classes": [
+      2,
+      8
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "color",
+        "prompt_pair": [
+          "a satellite image of brushland or shrubland, with a brownish-green color.",
+          "a satellite image of a river, with a blue color."
+        ]
+      },
+      {
+        "attr_type": "texture",
+        "prompt_pair": [
+          "a satellite image of brushland or shrubland, with a rough and uneven texture.",
+          "a satellite image of a river, with a smooth and flowing texture."
+        ]
+      },
+      {
+        "attr_type": "shape",
+        "prompt_pair": [
+          "a satellite image of brushland or shrubland, with a jagged and irregular shape.",
+          "a satellite image of a river, with a sinuous and winding shape."
+        ]
+      },
+      {
+        "attr_type": "pattern",
+        "prompt_pair": [
+          "a satellite image of brushland or shrubland, with a scattered and patchy pattern.",
+          "a satellite image of a river, with a meandering and braided pattern."
+        ]
+      }
+    ]
+  },
+  "0_2": {
+    "classes": [
+      0,
+      2
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "color",
+        "prompt_pair": [
+          "a satellite image of annual crop land, with green and brown patches.",
+          "a satellite image of brushland or shrubland, with brown and gray patches."
+        ]
+      },
+      {
+        "attr_type": "texture",
+        "prompt_pair": [
+          "a satellite image of annual crop land, with a smooth and uniform texture.",
+          "a satellite image of brushland or shrubland, with a rough and uneven texture."
+        ]
+      },
+      {
+        "attr_type": "vegetation density",
+        "prompt_pair": [
+          "a satellite image of annual crop land, with high vegetation density.",
+          "a satellite image of brushland or shrubland, with low vegetation density."
+        ]
+      },
+      {
+        "attr_type": "land use",
+        "prompt_pair": [
+          "a satellite image of annual crop land, used for agriculture.",
+          "a satellite image of brushland or shrubland, used for grazing or wildlife habitat."
+        ]
+      }
+    ]
+  },
+  "2_7": {
+    "classes": [
+      2,
+      7
+    ],
+    "prompt_pairs": [
+      {
+        "attr_type": "color",
+        "prompt_pair": [
+          "a satellite image of brushland or shrubland, with a predominantly green and brown color palette.",
+          "a satellite image of residential buildings or homes or apartments, with a predominantly gray and white color palette."
+        ]
+      },
+      {
+        "attr_type": "density",
+        "prompt_pair": [
+          "a satellite image of brushland or shrubland, with a low density of objects.",
+          "a satellite image of residential buildings or homes or apartments, with a high density of objects."
+        ]
+      },
+      {
+        "attr_type": "pattern",
+        "prompt_pair": [
+          "a satellite image of brushland or shrubland, with a random and irregular pattern of objects.",
+          "a satellite image of residential buildings or homes or apartments, with a regular and organized pattern of objects."
+        ]
+      },
+      {
+        "attr_type": "size",
+        "prompt_pair": [
+          "a satellite image of brushland or shrubland, with large areas of land and few small objects.",
+          "a satellite image of residential buildings or homes or apartments, with small areas of land and many small objects."
+        ]
+      }
+    ]
+  }
+}
