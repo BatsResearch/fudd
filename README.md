@@ -1,5 +1,6 @@
 # Follow-up Differential Descriptions
 
+Code for [Follow-Up Differential Descriptions: Language Models Resolve Ambiguities for Image Classification](https://arxiv.org/abs/2311.07593)
 
 <img src="block_diagram.png" width=750>
 
